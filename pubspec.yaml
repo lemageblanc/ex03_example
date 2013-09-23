@@ -1,0 +1,12 @@
+name: ex03_example
+version: 0.0.1
+author: Evèssèhou Moïse dovonou <dovonoumoise@yahoo.fr>
+description: A sample command-line application
+
+#dependencies:
+#  unittest: any
+
+description: An example how to use ex03, a library for educational purposes.
+dependencies:
+  ex03:
+    git: git://github.com/lemageblanc/ex03.git
